@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Panchal</h1>
 <h3 align="center">Passionate Developer & Open Source Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekpanchal07" alt="vivekpanchal07" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=vivekpanchal07"><img src="https://github-profile-trophy.vercel.app/?username=vivekpanchal07" alt="vivekpanchal07" /></a> </p>
 
 - 🔭 I’m currently working on [ParKing- the assistant](https://github.com/vivekpanchal07/parKing)
 
